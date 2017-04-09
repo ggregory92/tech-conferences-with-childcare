@@ -114,3 +114,221 @@ Make a PR to add a conference to the list! PRs also welcome to improve the templ
 - Location: **San Jose, CA, USA**
 - Date: **June 5-9, 2017**
 - Recurring conference? **Annual**
+
+-----
+
+### Cloud Foundry Summit
+- [https://www.cloudfoundry.org/event_subpages/attending-sv-2017/)
+- Childcare:
+  - **Free with registration**
+  - **On-site**
+- Attendee scholarship available? **Yes**
+- Location: **Santa Clara, CA, USA**
+- Date: **June 13-15, 2017**
+- Recurring conference? **Annually**
+
+-----
+
+### Apache Big Data + ApacheCon
+- [http://events.linuxfoundation.org/events/apache-big-data-north-america)
+- Childcare:
+  - **Free with registration**
+  - **On-site**
+- Attendee scholarship available? **Yes**
+- Location: **Miami, FL, USA**
+- Date: **May 16-18, 2017**
+- Recurring conference? **Annually**
+
+-----
+
+### Embedded Linux Conference Europe
+- [http://events.linuxfoundation.org/events/embedded-linux-conference-europe/attend/diversity-inclusion)
+- Childcare:
+  - **Free with registration**
+  - **On-site**
+- Attendee scholarship available? **Yes**
+- Location: **Prague, Czech Republic**
+- Date: **October 23-25, 2017**
+- Recurring conference? **Annually**
+
+-----
+
+### Embedded Linux Conference North America
+- [http://events.linuxfoundation.org/events/embedded-linux-conference/attend/child-care)
+- Childcare:
+  - **Free with registration**
+  - **On-site**
+- Attendee scholarship available? **Yes**
+- Location: **Portland, Oregon**
+- Date: **February 21-23, 2017**
+- Recurring conference? **Annually**
+
+-----
+
+### Linux Kernel Summit
+- [http://events.linuxfoundation.org/events/linux-kernel-summit/attend/diversity-inclusion)
+- Childcare:
+  - **Free with registration**
+  - **On-site**
+- Attendee scholarship available? **Yes**
+- Location: **Prague, Czech Republic**
+- Date: **October 24-27, 2017**
+- Recurring conference? **Annually**
+
+-----
+
+### Linux Security Summit
+- [http://events.linuxfoundation.org/events/linux-security-summit/attend/diversity-inclusion)
+- Childcare:
+  - **Free with registration**
+  - **On-site**
+- Attendee scholarship available? **Yes**
+- Location: **Los Angeles, CA, USA**
+- Date: **September 14-15, 2017**
+- Recurring conference? **Annually**
+
+-----
+
+### Linux Storage Filesystem & MM Summit
+- [http://events.linuxfoundation.org/events/linux-storage-filesystem-and-mm-summit/attend/diversity-inclusion)
+- Childcare:
+  - **Free with registration**
+  - **On-site**
+- Attendee scholarship available? **Yes**
+- Location: **Cambridge, MA, USA**
+- Date: **March 20-21, 2017**
+- Recurring conference? **Annually**
+
+-----
+
+### LinuxCon+ContainerCon+CloudOpen China
+- [http://events.linuxfoundation.org/events/linuxcon-containercon-cloudopen-china/attend/diversity-inclusion)
+- Childcare:
+  - **Free with registration**
+  - **On-site**
+- Attendee scholarship available? **Yes**
+- Location: **Beijing, China**
+- Date: **June 19-20, 2017**
+- Recurring conference? **Annually**
+
+-----
+
+### MesosCon Asia
+- [http://events.linuxfoundation.org/events/mesoscon-asia)
+- Childcare:
+  - **Free with registration**
+  - **On-site**
+- Attendee scholarship available? **Yes**
+- Location: **Beijing, China**
+- Date: **June 20-22, 2017**
+- Recurring conference? **Annually**
+
+-----
+
+
+### MesosCon Europe
+- [http://events.linuxfoundation.org/events/mesoscon-europe)
+- Childcare:
+  - **Free with registration**
+  - **On-site**
+- Attendee scholarship available? **Yes**
+- Location: **Prague, Czech Republic**
+- Date: **October 25-27, 2017**
+- Recurring conference? **Annually**
+
+-----
+
+### MesosCon North America
+- [http://events.linuxfoundation.org/events/mesoscon-north-america)
+- Childcare:
+  - **Free with registration**
+  - **On-site**
+- Attendee scholarship available? **Yes**
+- Location: **Los Angeles, CA, USA**
+- Date: **September 13-15, 2017**
+- Recurring conference? **Annually**
+
+-----
+
+### Node.js Interactive
+- [http://events.linuxfoundation.org/events/node-interactive/attend/diversityinclusion)
+- Childcare:
+  - **Free with registration**
+  - **On-site**
+- Attendee scholarship available? **Yes**
+- Location: **Vancouver, BC, Canada**
+- Date: **October 4-6, 2017**
+- Recurring conference? **Annually**
+
+-----
+
+### Open Networking Summit
+- [http://events.linuxfoundation.org/events/open-networking-summit/attend/child-care)
+- Childcare:
+  - **Free with registration**
+  - **On-site**
+- Attendee scholarship available? **Yes**
+- Location: **Santa Clara, CA, USA**
+- Date: **March 3-6, 2017**
+- Recurring conference? **Annually**
+
+-----
+
+### Open Source Leadership Summit
+- [http://events.linuxfoundation.org/events/open-source-leadership-summit)
+- Childcare:
+  - **Free with registration**
+  - **On-site**
+- Attendee scholarship available? **Yes**
+- Location: **Lake Tahoe, CA, USA**
+- Date: **February 14-16, 2017**
+- Recurring conference? **Annually**
+
+-----
+
+### Open Source Summit Japan
+- [http://events.linuxfoundation.org/events/open-source-summit-japan)
+- Childcare:
+  - **Free with registration**
+  - **On-site**
+- Attendee scholarship available? **Yes**
+- Location: **Tokyo, Japan**
+- Date: **May 31-June 2, 2017**
+- Recurring conference? **Annually**
+
+-----
+
+
+### Open Source Summit North America
+- [http://events.linuxfoundation.org/events/open-source-summit-north-american)
+- Childcare:
+  - **Free with registration**
+  - **On-site**
+- Attendee scholarship available? **Yes**
+- Location: **Los Angeles, CA**
+- Date: **September 11-13, 2017**
+- Recurring conference? **Annually**
+
+-----
+
+### OpenIoT Summit
+- [http://events.linuxfoundation.org/events/openiot-summit/attend/child-care)
+- Childcare:
+  - **Free with registration**
+  - **On-site**
+- Attendee scholarship available? **Yes**
+- Location: **Portland, OR**
+- Date: **February 21-23, 2017**
+- Recurring conference? **Annually**
+
+-----
+
+### OPNFV Summit
+- [http://events.linuxfoundation.org/events/opnfv-summit/attend/child-care)
+- Childcare:
+  - **Free with registration**
+  - **On-site**
+- Attendee scholarship available? **Yes**
+- Location: **Beijing, Chin**
+- Date: **June 12-15, 2017**
+- Recurring conference? **Annually**
